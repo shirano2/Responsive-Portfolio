@@ -215,6 +215,7 @@ button:hover{
     }
     #contents h1{
         font-size:33px;
+        line-height:100%;
     }
     article img {
         width:50%;
@@ -232,9 +233,15 @@ button:hover{
         width:100%;
         padding-left:0;
     }
+    #header li{
+        font-size:22px;
+    }
     nav ul{
         width:100%;
         padding-left:0;
+        height:30px;
+        margin : auto;
+        margin-bottom:30px;
     }
     #contents {
         width:95%;
