@@ -164,6 +164,9 @@ button:hover{
 #images h1:hover{
     color:#5c00ce;
 }
+#contents h3{
+    text-align:left;
+}
 h5{
     text-align:left;
 }
